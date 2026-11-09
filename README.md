@@ -26,7 +26,3 @@
 - [**StockCrab**](https://github.com/upidddd/stockcrab) · Stockfish move hints on chess.com and lichess, a Firefox extension
 - [**DrzReplay**](https://github.com/upidddd/drzreplay) · instant replay for Linux: the last minute of your screen, saved with one key
 - [**DrzReplayWIN**](https://github.com/upidddd/drzreplaywin) · the same for Windows
-
----
-
-[GitHub Stats](https://github-readme-stats.vercel.app/api?username=upidddd&show_icons=true&theme=github_dark&hide_border=true)
